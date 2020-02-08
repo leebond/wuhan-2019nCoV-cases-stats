@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
 ### download chrome driver from https://chromedriver.chromium.org/ 
-driver = webdriver.Chrome('C:/Users/david/Documents/chromedriver/chromedriver.exe')
+driver = webdriver.Chrome('/Users/macbook/Documents/chromedriver')
 http = "https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/"
 driver.get(http)
 
@@ -41,7 +41,7 @@ print(len(tbls))
 for i in range(len(tbls)): # tr
     rows_xpath = '//*[@id="mvp-content-main"]/table[' + str(i+1) + ']/tbody/tr[*]'
     rows = driver.find_elements_by_xpath(rows_xpath)
-    print(len(rows))
+#    print(len(rows))
     for j in range(len(rows)): # td
         city_xpath = '//*[@id="mvp-content-main"]/table['+str(i+1)+']/tbody/tr['+str(j+1)+']/td['+str(1)+']'
         cases_xpath = '//*[@id="mvp-content-main"]/table['+str(i+1)+']/tbody/tr['+str(j+1)+']/td['+str(2)+']'
@@ -52,6 +52,6 @@ for i in range(len(tbls)): # tr
         if city not in ['MAINLAND CHINA','REGIONS', 'INTERNATIONAL', 'TOTAL']:
             df = df.append({'City': city, 'Cases': ncases, 'Deaths': ndeaths, 'Date Updated': updated_dt}, ignore_index = True)
 
-print(df.head())
+print(df.tail())
 df.to_csv('wuhan.csv', index=False)
 driver.close()   

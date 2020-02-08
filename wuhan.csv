@@ -1,340 +1,459 @@
 City,Cases,Deaths,Date Updated
 "Hubei province
-(including Wuhan)","4,586",162.0,30 January 2020
-Zhejiang province,428,0.0,30 January 2020
-Guangdong province,311,0.0,30 January 2020
-Henan province,278,2.0,30 January 2020
-Hunan province,277,0.0,30 January 2020
-Anhui province,200,0.0,30 January 2020
-Chongqing,165,0.0,30 January 2020
-Jiangxi province,162,0.0,30 January 2020
-Shandong province,145,0.0,30 January 2020
-Sichuan province,142,1.0,30 January 2020
-Jiangsu province,129,0.0,30 January 2020
-Beijing,114,1.0,30 January 2020
-Shanghai,112,1.0,30 January 2020
-Fujian province,101,0.0,30 January 2020
-Guangxi Region,78,0.0,30 January 2020
-Yunnan province,70,0.0,30 January 2020
-Hebei province,65,1.0,30 January 2020
-Shaanxi province,63,0.0,30 January 2020
-Hainan province,46,1.0,30 January 2020
-Heilongjiang province,43,1.0,30 January 2020
-Liaoning province,41,0.0,30 January 2020
-Shanxi province,35,0.0,30 January 2020
-Tianjin,29,0.0,30 January 2020
-Gansu province,26,0.0,30 January 2020
-Inner Mongolia,18,0.0,30 January 2020
-Ningxia Region,17,0.0,30 January 2020
-Jilin province,14,0.0,30 January 2020
-Xinjiang,14,0.0,30 January 2020
-Guizhou province,12,0.0,30 January 2020
-Qinghai province,6,0.0,30 January 2020
-Tibet,1,0.0,30 January 2020
-Hong Kong,10,0.0,30 January 2020
-Taiwan,8,0.0,30 January 2020
-Macau,7,0.0,30 January 2020
-Thailand,14,0.0,30 January 2020
-Japan,11,0.0,30 January 2020
-Singapore,10,0.0,30 January 2020
-Malaysia,8,0.0,30 January 2020
-Australia,7,0.0,30 January 2020
-France,5,0.0,30 January 2020
-United States,5,0.0,30 January 2020
-Germany,4,0.0,30 January 2020
-South Korea,4,0.0,30 January 2020
-UAE,4,0.0,30 January 2020
-Canada,3,0.0,30 January 2020
-Vietnam,2,0.0,30 January 2020
-Nepal,1,0.0,30 January 2020
-Cambodia,1,0.0,30 January 2020
-Sri Lanka,1,0.0,30 January 2020
-Finland,1,0.0,30 January 2020
+(including Wuhan)","4,586",162,30-Jan-20
+Zhejiang province,428,0,30-Jan-20
+Guangdong province,311,0,30-Jan-20
+Henan province,278,2,30-Jan-20
+Hunan province,277,0,30-Jan-20
+Anhui province,200,0,30-Jan-20
+Chongqing,165,0,30-Jan-20
+Jiangxi province,162,0,30-Jan-20
+Shandong province,145,0,30-Jan-20
+Sichuan province,142,1,30-Jan-20
+Jiangsu province,129,0,30-Jan-20
+Beijing,114,1,30-Jan-20
+Shanghai,112,1,30-Jan-20
+Fujian province,101,0,30-Jan-20
+Guangxi Region,78,0,30-Jan-20
+Yunnan province,70,0,30-Jan-20
+Hebei province,65,1,30-Jan-20
+Shaanxi province,63,0,30-Jan-20
+Hainan province,46,1,30-Jan-20
+Heilongjiang province,43,1,30-Jan-20
+Liaoning province,41,0,30-Jan-20
+Shanxi province,35,0,30-Jan-20
+Tianjin,29,0,30-Jan-20
+Gansu province,26,0,30-Jan-20
+Inner Mongolia,18,0,30-Jan-20
+Ningxia Region,17,0,30-Jan-20
+Jilin province,14,0,30-Jan-20
+Xinjiang,14,0,30-Jan-20
+Guizhou province,12,0,30-Jan-20
+Qinghai province,6,0,30-Jan-20
+Tibet,1,0,30-Jan-20
+Hong Kong,10,0,30-Jan-20
+Taiwan,8,0,30-Jan-20
+Macau,7,0,30-Jan-20
+Thailand,14,0,30-Jan-20
+Japan,11,0,30-Jan-20
+Singapore,10,0,30-Jan-20
+Malaysia,8,0,30-Jan-20
+Australia,7,0,30-Jan-20
+France,5,0,30-Jan-20
+United States,5,0,30-Jan-20
+Germany,4,0,30-Jan-20
+South Korea,4,0,30-Jan-20
+UAE,4,0,30-Jan-20
+Canada,3,0,30-Jan-20
+Vietnam,2,0,30-Jan-20
+Nepal,1,0,30-Jan-20
+Cambodia,1,0,30-Jan-20
+Sri Lanka,1,0,30-Jan-20
+Finland,1,0,30-Jan-20
 "Hubei province
-(including Wuhan)","5,806",204.0,31 January 2020
-Zhejiang province,537,0.0,31 January 2020
-Guangdong province,393,0.0,31 January 2020
-Henan province,352,2.0,31 January 2020
-Hunan province,332,0.0,31 January 2020
-Anhui province,237,0.0,31 January 2020
-Chongqing,206,0.0,31 January 2020
-Jiangxi province,240,0.0,31 January 2020
-Shandong province,178,0.0,31 January 2020
-Sichuan province,177,1.0,31 January 2020
-Jiangsu province,168,0.0,31 January 2020
-Beijing,132,1.0,31 January 2020
-Shanghai,135,1.0,31 January 2020
-Fujian province,120,0.0,31 January 2020
-Guangxi Region,87,0.0,31 January 2020
-Yunnan province,80,0.0,31 January 2020
-Hebei province,82,1.0,31 January 2020
-Shaanxi province,87,0.0,31 January 2020
-Hainan province,49,1.0,31 January 2020
-Heilongjiang province,59,2.0,31 January 2020
-Liaoning province,48,0.0,31 January 2020
-Shanxi province,39,0.0,31 January 2020
-Tianjin,32,0.0,31 January 2020
-Gansu province,29,0.0,31 January 2020
-Inner Mongolia,20,0.0,31 January 2020
-Ningxia Region,21,0.0,31 January 2020
-Jilin province,14,0.0,31 January 2020
-Xinjiang,17,0.0,31 January 2020
-Guizhou province,15,0.0,31 January 2020
-Qinghai province,8,0.0,31 January 2020
-Tibet,1,0.0,31 January 2020
-Hong Kong,12,0.0,31 January 2020
-Taiwan,9,0.0,31 January 2020
-Macau,7,0.0,31 January 2020
-Thailand,14,0.0,31 January 2020
-Japan,14*,0.0,31 January 2020
-Singapore,13,0.0,31 January 2020
-Malaysia,8,0.0,31 January 2020
-Australia,9,0.0,31 January 2020
-France,6,0.0,31 January 2020
-United States,6,0.0,31 January 2020
-Germany,5,0.0,31 January 2020
-South Korea,7,0.0,31 January 2020
-UAE,4,0.0,31 January 2020
-Canada,3,0.0,31 January 2020
-Vietnam,5,0.0,31 January 2020
-Nepal,1,0.0,31 January 2020
-Cambodia,1,0.0,31 January 2020
-Sri Lanka,1,0.0,31 January 2020
-Finland,1,0.0,31 January 2020
-Philippines,1,0.0,31 January 2020
-India,1,0.0,31 January 2020
-Italy,2,0.0,31 January 2020
+(including Wuhan)","5,806",204,31-Jan-20
+Zhejiang province,537,0,31-Jan-20
+Guangdong province,393,0,31-Jan-20
+Henan province,352,2,31-Jan-20
+Hunan province,332,0,31-Jan-20
+Anhui province,237,0,31-Jan-20
+Chongqing,206,0,31-Jan-20
+Jiangxi province,240,0,31-Jan-20
+Shandong province,178,0,31-Jan-20
+Sichuan province,177,1,31-Jan-20
+Jiangsu province,168,0,31-Jan-20
+Beijing,132,1,31-Jan-20
+Shanghai,135,1,31-Jan-20
+Fujian province,120,0,31-Jan-20
+Guangxi Region,87,0,31-Jan-20
+Yunnan province,80,0,31-Jan-20
+Hebei province,82,1,31-Jan-20
+Shaanxi province,87,0,31-Jan-20
+Hainan province,49,1,31-Jan-20
+Heilongjiang province,59,2,31-Jan-20
+Liaoning province,48,0,31-Jan-20
+Shanxi province,39,0,31-Jan-20
+Tianjin,32,0,31-Jan-20
+Gansu province,29,0,31-Jan-20
+Inner Mongolia,20,0,31-Jan-20
+Ningxia Region,21,0,31-Jan-20
+Jilin province,14,0,31-Jan-20
+Xinjiang,17,0,31-Jan-20
+Guizhou province,15,0,31-Jan-20
+Qinghai province,8,0,31-Jan-20
+Tibet,1,0,31-Jan-20
+Hong Kong,12,0,31-Jan-20
+Taiwan,9,0,31-Jan-20
+Macau,7,0,31-Jan-20
+Thailand,14,0,31-Jan-20
+Japan,14*,0,31-Jan-20
+Singapore,13,0,31-Jan-20
+Malaysia,8,0,31-Jan-20
+Australia,9,0,31-Jan-20
+France,6,0,31-Jan-20
+United States,6,0,31-Jan-20
+Germany,5,0,31-Jan-20
+South Korea,7,0,31-Jan-20
+UAE,4,0,31-Jan-20
+Canada,3,0,31-Jan-20
+Vietnam,5,0,31-Jan-20
+Nepal,1,0,31-Jan-20
+Cambodia,1,0,31-Jan-20
+Sri Lanka,1,0,31-Jan-20
+Finland,1,0,31-Jan-20
+Philippines,1,0,31-Jan-20
+India,1,0,31-Jan-20
+Italy,2,0,31-Jan-20
 "Hubei province
-(including Wuhan)","7,153",249.0,1 February 2020
-Zhejiang province,599,0.0,1 February 2020
-Guangdong province,535,0.0,1 February 2020
-Henan province,422,2.0,1 February 2020
-Hunan province,389,0.0,1 February 2020
-Anhui province,297,0.0,1 February 2020
-Chongqing,247,1.0,1 February 2020
-Jiangxi province,286,0.0,1 February 2020
-Shandong province,206,0.0,1 February 2020
-Sichuan province,208*,1.0,1 February 2020
-Jiangsu province,202,0.0,1 February 2020
-Beijing,168,1.0,1 February 2020
-Shanghai,169,1.0,1 February 2020
-Fujian province,144,0.0,1 February 2020
-Guangxi Region,100,0.0,1 February 2020
-Yunnan province,91,0.0,1 February 2020
-Hebei province,96,1.0,1 February 2020
-Shaanxi province,101,0.0,1 February 2020
-Hainan province,62,1.0,1 February 2020
-Heilongjiang province,80,2.0,1 February 2020
-Liaoning province,63,0.0,1 February 2020
-Shanxi province,47,0.0,1 February 2020
-Tianjin,37,0.0,1 February 2020
-Gansu province,35,0.0,1 February 2020
-Inner Mongolia,23,0.0,1 February 2020
-Ningxia Region,26,0.0,1 February 2020
-Jilin province,17,0.0,1 February 2020
-Xinjiang,18,0.0,1 February 2020
-Guizhou province,29,0.0,1 February 2020
-Qinghai province,9,0.0,1 February 2020
-Tibet,1,0.0,1 February 2020
-Hong Kong,13,0.0,1 February 2020
-Taiwan,10,0.0,1 February 2020
-Macau,7,0.0,1 February 2020
-Thailand,19,0.0,1 February 2020
-Japan,20*,0.0,1 February 2020
-Singapore,18,0.0,1 February 2020
-Malaysia,8,0.0,1 February 2020
-Australia,12,0.0,1 February 2020
-France,6,0.0,1 February 2020
-United States,7,0.0,1 February 2020
-Germany,7,0.0,1 February 2020
-South Korea,12,0.0,1 February 2020
-UAE,4,0.0,1 February 2020
-Canada,4,0.0,1 February 2020
-Vietnam,6,0.0,1 February 2020
-England,2,0.0,1 February 2020
-Russia,2,0.0,1 February 2020
-Nepal,1,0.0,1 February 2020
-Cambodia,1,0.0,1 February 2020
-Sri Lanka,1,0.0,1 February 2020
-Finland,1,0.0,1 February 2020
-Philippines,1,0.0,1 February 2020
-India,1,0.0,1 February 2020
-Italy,2,0.0,1 February 2020
-Sweden,1,0.0,1 February 2020
-Spain,1,0.0,1 February 2020
+(including Wuhan)","7,153",249,1-Feb-20
+Zhejiang province,599,0,1-Feb-20
+Guangdong province,535,0,1-Feb-20
+Henan province,422,2,1-Feb-20
+Hunan province,389,0,1-Feb-20
+Anhui province,297,0,1-Feb-20
+Chongqing,247,1,1-Feb-20
+Jiangxi province,286,0,1-Feb-20
+Shandong province,206,0,1-Feb-20
+Sichuan province,208*,1,1-Feb-20
+Jiangsu province,202,0,1-Feb-20
+Beijing,168,1,1-Feb-20
+Shanghai,169,1,1-Feb-20
+Fujian province,144,0,1-Feb-20
+Guangxi Region,100,0,1-Feb-20
+Yunnan province,91,0,1-Feb-20
+Hebei province,96,1,1-Feb-20
+Shaanxi province,101,0,1-Feb-20
+Hainan province,62,1,1-Feb-20
+Heilongjiang province,80,2,1-Feb-20
+Liaoning province,63,0,1-Feb-20
+Shanxi province,47,0,1-Feb-20
+Tianjin,37,0,1-Feb-20
+Gansu province,35,0,1-Feb-20
+Inner Mongolia,23,0,1-Feb-20
+Ningxia Region,26,0,1-Feb-20
+Jilin province,17,0,1-Feb-20
+Xinjiang,18,0,1-Feb-20
+Guizhou province,29,0,1-Feb-20
+Qinghai province,9,0,1-Feb-20
+Tibet,1,0,1-Feb-20
+Hong Kong,13,0,1-Feb-20
+Taiwan,10,0,1-Feb-20
+Macau,7,0,1-Feb-20
+Thailand,19,0,1-Feb-20
+Japan,20*,0,1-Feb-20
+Singapore,18,0,1-Feb-20
+Malaysia,8,0,1-Feb-20
+Australia,12,0,1-Feb-20
+France,6,0,1-Feb-20
+United States,7,0,1-Feb-20
+Germany,7,0,1-Feb-20
+South Korea,12,0,1-Feb-20
+UAE,4,0,1-Feb-20
+Canada,4,0,1-Feb-20
+Vietnam,6,0,1-Feb-20
+England,2,0,1-Feb-20
+Russia,2,0,1-Feb-20
+Nepal,1,0,1-Feb-20
+Cambodia,1,0,1-Feb-20
+Sri Lanka,1,0,1-Feb-20
+Finland,1,0,1-Feb-20
+Philippines,1,0,1-Feb-20
+India,1,0,1-Feb-20
+Italy,2,0,1-Feb-20
+Sweden,1,0,1-Feb-20
+Spain,1,0,1-Feb-20
 "Hubei province
-(including Wuhan)","9,074",294.0,2 February 2020
-Zhejiang province,661,0.0,2 February 2020
-Guangdong province,632,0.0,2 February 2020
-Henan province,493,2.0,2 February 2020
-Hunan province,463,0.0,2 February 2020
-Anhui province,340,0.0,2 February 2020
-Jiangxi province,333,0.0,2 February 2020
-Chongqing,275,1.0,2 February 2020
-Jiangsu province,236,0.0,2 February 2020
-Sichuan province,232*,1.0,2 February 2020
-Shandong province,230,0.0,2 February 2020
-Beijing,191,1.0,2 February 2020
-Shanghai,182,1.0,2 February 2020
-Fujian province,159,0.0,2 February 2020
-Shaanxi province,116,0.0,2 February 2020
-Guangxi Region,111,0.0,2 February 2020
-Yunnan province,105,0.0,2 February 2020
-Hebei province,104,1.0,2 February 2020
-Heilongjiang province,95,2.0,2 February 2020
-Liaoning province,69,0.0,2 February 2020
-Hainan province,68,1.0,2 February 2020
-Shanxi province,56,0.0,2 February 2020
-Tianjin,48,0.0,2 February 2020
-Gansu province,40,0.0,2 February 2020
-Guizhou province,38,0.0,2 February 2020
-Ningxia Region,28,0.0,2 February 2020
-Inner Mongolia,27,0.0,2 February 2020
-Jilin province,23,0.0,2 February 2020
-Xinjiang,21,0.0,2 February 2020
-Qinghai province,11,0.0,2 February 2020
-Tibet,1,0.0,2 February 2020
-Hong Kong,14,0.0,2 February 2020
-Taiwan,10,0.0,2 February 2020
-Macau,8,0.0,2 February 2020
-Japan,20*,0.0,2 February 2020
-Thailand,19,0.0,2 February 2020
-Singapore,18,0.0,2 February 2020
-South Korea,15,0.0,2 February 2020
-Australia,12,,2 February 2020
-Germany,10,0.0,2 February 2020
-Malaysia,8,0.0,2 February 2020
-United States,8,0.0,2 February 2020
-Vietnam,7,0.0,2 February 2020
-France,6,0.0,2 February 2020
-UAE,5,0.0,2 February 2020
-Canada,4,0.0,2 February 2020
-England,2,0.0,2 February 2020
-Russia,2,0.0,2 February 2020
-Philippines,2,1.0,2 February 2020
-India,2,0.0,2 February 2020
-Italy,2,0.0,2 February 2020
-Nepal,1,0.0,2 February 2020
-Cambodia,1,0.0,2 February 2020
-Sri Lanka,1,0.0,2 February 2020
-Finland,1,0.0,2 February 2020
-Sweden,1,0.0,2 February 2020
-Spain,1,0.0,2 February 2020
+(including Wuhan)","9,074",294,2-Feb-20
+Zhejiang province,661,0,2-Feb-20
+Guangdong province,632,0,2-Feb-20
+Henan province,493,2,2-Feb-20
+Hunan province,463,0,2-Feb-20
+Anhui province,340,0,2-Feb-20
+Jiangxi province,333,0,2-Feb-20
+Chongqing,275,1,2-Feb-20
+Jiangsu province,236,0,2-Feb-20
+Sichuan province,232*,1,2-Feb-20
+Shandong province,230,0,2-Feb-20
+Beijing,191,1,2-Feb-20
+Shanghai,182,1,2-Feb-20
+Fujian province,159,0,2-Feb-20
+Shaanxi province,116,0,2-Feb-20
+Guangxi Region,111,0,2-Feb-20
+Yunnan province,105,0,2-Feb-20
+Hebei province,104,1,2-Feb-20
+Heilongjiang province,95,2,2-Feb-20
+Liaoning province,69,0,2-Feb-20
+Hainan province,68,1,2-Feb-20
+Shanxi province,56,0,2-Feb-20
+Tianjin,48,0,2-Feb-20
+Gansu province,40,0,2-Feb-20
+Guizhou province,38,0,2-Feb-20
+Ningxia Region,28,0,2-Feb-20
+Inner Mongolia,27,0,2-Feb-20
+Jilin province,23,0,2-Feb-20
+Xinjiang,21,0,2-Feb-20
+Qinghai province,11,0,2-Feb-20
+Tibet,1,0,2-Feb-20
+Hong Kong,14,0,2-Feb-20
+Taiwan,10,0,2-Feb-20
+Macau,8,0,2-Feb-20
+Japan,20*,0,2-Feb-20
+Thailand,19,0,2-Feb-20
+Singapore,18,0,2-Feb-20
+South Korea,15,0,2-Feb-20
+Australia,12,,2-Feb-20
+Germany,10,0,2-Feb-20
+Malaysia,8,0,2-Feb-20
+United States,8,0,2-Feb-20
+Vietnam,7,0,2-Feb-20
+France,6,0,2-Feb-20
+UAE,5,0,2-Feb-20
+Canada,4,0,2-Feb-20
+England,2,0,2-Feb-20
+Russia,2,0,2-Feb-20
+Philippines,2,1,2-Feb-20
+India,2,0,2-Feb-20
+Italy,2,0,2-Feb-20
+Nepal,1,0,2-Feb-20
+Cambodia,1,0,2-Feb-20
+Sri Lanka,1,0,2-Feb-20
+Finland,1,0,2-Feb-20
+Sweden,1,0,2-Feb-20
+Spain,1,0,2-Feb-20
 "Hubei province
-(including Wuhan)","13,522",414.0,3 February 2020
-Zhejiang province,829,0.0,3 February 2020
-Guangdong province,725,0.0,3 February 2020
-Henan province,675,2.0,3 February 2020
-Hunan province,521,0.0,3 February 2020
-Anhui province,480,0.0,3 February 2020
-Jiangxi province,391,0.0,3 February 2020
-Chongqing,337,2.0,3 February 2020
-Jiangsu province,308,0.0,3 February 2020
-Sichuan province,283*,1.0,3 February 2020
-Shandong province,270,0.0,3 February 2020
-Beijing,212,1.0,3 February 2020
-Shanghai,208,1.0,3 February 2020
-Fujian province,179,0.0,3 February 2020
-Shaanxi province,128,0.0,3 February 2020
-Guangxi Region,139,0.0,3 February 2020
-Yunnan province,114,0.0,3 February 2020
-Hebei province,126,1.0,3 February 2020
-Heilongjiang province,155,2.0,3 February 2020
-Liaoning province,74,0.0,3 February 2020
-Hainan province,79,1.0,3 February 2020
-Shanxi province,74,0.0,3 February 2020
-Tianjin,60,0.0,3 February 2020
-Gansu province,55,0.0,3 February 2020
-Guizhou province,56,0.0,3 February 2020
-Ningxia Region,31,0.0,3 February 2020
-Inner Mongolia,34,0.0,3 February 2020
-Jilin province,42,0.0,3 February 2020
-Xinjiang,29,0.0,3 February 2020
-Qinghai province,15,0.0,3 February 2020
-Tibet,1,0.0,3 February 2020
-Undisclosed,286,0.0,3 February 2020
-Hong Kong,15,0.0,3 February 2020
-Taiwan,10,0.0,3 February 2020
-Macau,8,0.0,3 February 2020
-Japan,20*,0.0,3 February 2020
-Thailand,19,0.0,3 February 2020
-Singapore,18,0.0,3 February 2020
-South Korea,15,0.0,3 February 2020
-Australia,12,,3 February 2020
-Germany,12,0.0,3 February 2020
-Malaysia,8,0.0,3 February 2020
-United States,11,0.0,3 February 2020
-Vietnam,8,0.0,3 February 2020
-France,6,0.0,3 February 2020
-UAE,5,0.0,3 February 2020
-Canada,4,0.0,3 February 2020
-England,2,0.0,3 February 2020
-Russia,2,0.0,3 February 2020
-Philippines,2,1.0,3 February 2020
-India,3,0.0,3 February 2020
-Italy,2,0.0,3 February 2020
-Nepal,1,0.0,3 February 2020
-Cambodia,1,0.0,3 February 2020
-Sri Lanka,1,0.0,3 February 2020
-Finland,1,0.0,3 February 2020
-Sweden,1,0.0,3 February 2020
-Spain,1,0.0,3 February 2020
+(including Wuhan)","13,522",414,3-Feb-20
+Zhejiang province,829,0,3-Feb-20
+Guangdong province,725,0,3-Feb-20
+Henan province,675,2,3-Feb-20
+Hunan province,521,0,3-Feb-20
+Anhui province,480,0,3-Feb-20
+Jiangxi province,391,0,3-Feb-20
+Chongqing,337,2,3-Feb-20
+Jiangsu province,308,0,3-Feb-20
+Sichuan province,283*,1,3-Feb-20
+Shandong province,270,0,3-Feb-20
+Beijing,212,1,3-Feb-20
+Shanghai,208,1,3-Feb-20
+Fujian province,179,0,3-Feb-20
+Shaanxi province,128,0,3-Feb-20
+Guangxi Region,139,0,3-Feb-20
+Yunnan province,114,0,3-Feb-20
+Hebei province,126,1,3-Feb-20
+Heilongjiang province,155,2,3-Feb-20
+Liaoning province,74,0,3-Feb-20
+Hainan province,79,1,3-Feb-20
+Shanxi province,74,0,3-Feb-20
+Tianjin,60,0,3-Feb-20
+Gansu province,55,0,3-Feb-20
+Guizhou province,56,0,3-Feb-20
+Ningxia Region,31,0,3-Feb-20
+Inner Mongolia,34,0,3-Feb-20
+Jilin province,42,0,3-Feb-20
+Xinjiang,29,0,3-Feb-20
+Qinghai province,15,0,3-Feb-20
+Tibet,1,0,3-Feb-20
+Undisclosed,286,0,3-Feb-20
+Hong Kong,15,0,3-Feb-20
+Taiwan,10,0,3-Feb-20
+Macau,8,0,3-Feb-20
+Japan,20*,0,3-Feb-20
+Thailand,19,0,3-Feb-20
+Singapore,18,0,3-Feb-20
+South Korea,15,0,3-Feb-20
+Australia,12,,3-Feb-20
+Germany,12,0,3-Feb-20
+Malaysia,8,0,3-Feb-20
+United States,11,0,3-Feb-20
+Vietnam,8,0,3-Feb-20
+France,6,0,3-Feb-20
+UAE,5,0,3-Feb-20
+Canada,4,0,3-Feb-20
+England,2,0,3-Feb-20
+Russia,2,0,3-Feb-20
+Philippines,2,1,3-Feb-20
+India,3,0,3-Feb-20
+Italy,2,0,3-Feb-20
+Nepal,1,0,3-Feb-20
+Cambodia,1,0,3-Feb-20
+Sri Lanka,1,0,3-Feb-20
+Finland,1,0,3-Feb-20
+Sweden,1,0,3-Feb-20
+Spain,1,0,3-Feb-20
+Hubei province (including Wuhan),"13,522",414,4-Feb-20
+Zhejiang province,829,0,4-Feb-20
+Guangdong province,797,0,4-Feb-20
+Henan province,675,2,4-Feb-20
+Hunan province,593,0,4-Feb-20
+Anhui province,480,0,4-Feb-20
+Jiangxi province,476,0,4-Feb-20
+Chongqing,337,2,4-Feb-20
+Jiangsu province,308,0,4-Feb-20
+Sichuan province,283*,1,4-Feb-20
+Shandong province,275,0,4-Feb-20
+Beijing,228,1,4-Feb-20
+Shanghai,219,1,4-Feb-20
+Fujian province,194,0,4-Feb-20
+Shaanxi province,142,0,4-Feb-20
+Guangxi Region,139,0,4-Feb-20
+Yunnan province,119,0,4-Feb-20
+Hebei province,126,1,4-Feb-20
+Heilongjiang province,155,2,4-Feb-20
+Liaoning province,77,0,4-Feb-20
+Hainan province,80,1,4-Feb-20
+Shanxi province,74,0,4-Feb-20
+Tianjin,66,0,4-Feb-20
+Gansu province,55,0,4-Feb-20
+Guizhou province,56,0,4-Feb-20
+Ningxia Region,34,0,4-Feb-20
+Inner Mongolia,35,0,4-Feb-20
+Jilin province,42,0,4-Feb-20
+Xinjiang,29,0,4-Feb-20
+Qinghai province,15,0,4-Feb-20
+Tibet,1,0,4-Feb-20
+Hong Kong,17,1,4-Feb-20
+Taiwan,10,0,4-Feb-20
+Macau,10,0,4-Feb-20
+Japan,22*,0,4-Feb-20
+Thailand,25,0,4-Feb-20
+Singapore,24,0,4-Feb-20
+South Korea,16,0,4-Feb-20
+Australia,13,0,4-Feb-20
+Germany,12,0,4-Feb-20
+Malaysia,10,0,4-Feb-20
+United States,11,0,4-Feb-20
+Vietnam,10,0,4-Feb-20
+France,6,0,4-Feb-20
+UAE,5,0,4-Feb-20
+Canada,4,0,4-Feb-20
+England,2,0,4-Feb-20
+Russia,2,0,4-Feb-20
+Philippines,2,1,4-Feb-20
+India,3,0,4-Feb-20
+Italy,2,0,4-Feb-20
+Nepal,1,0,4-Feb-20
+Cambodia,1,0,4-Feb-20
+Sri Lanka,1,0,4-Feb-20
+Finland,1,0,4-Feb-20
+Sweden,1,0,4-Feb-20
+Spain,1,0,4-Feb-20
+Belgium,1,0,4-Feb-20
+Hubei province,,,
+ (including Wuhan),"19,665",549,5-Feb-20
+Zhejiang province,895,0,5-Feb-20
+Guangdong province,870,0,5-Feb-20
+Henan province,851,2,5-Feb-20
+Hunan province,711,0,5-Feb-20
+Anhui province,591,0,5-Feb-20
+Jiangxi province,548,0,5-Feb-20
+Chongqing,389,2,5-Feb-20
+Jiangsu province,373,0,5-Feb-20
+Sichuan province,322*,1,5-Feb-20
+Shandong province,343,0,5-Feb-20
+Beijing,253,1,5-Feb-20
+Shanghai,254,1,5-Feb-20
+Fujian province,205,0,5-Feb-20
+Shaanxi province,165,0,5-Feb-20
+Guangxi Region,168,0,5-Feb-20
+Yunnan province,128,0,5-Feb-20
+Hebei province,157,1,5-Feb-20
+Heilongjiang province,227,3,5-Feb-20
+Liaoning province,89,0,5-Feb-20
+Hainan province,99,1,5-Feb-20
+Shanxi province,90,0,5-Feb-20
+Tianjin,69,1,5-Feb-20
+Gansu province,62,0,5-Feb-20
+Guizhou province,69,1,5-Feb-20
+Ningxia Region,34,0,5-Feb-20
+Inner Mongolia,42,0,5-Feb-20
+Jilin province,59,0,5-Feb-20
+Xinjiang,36,0,5-Feb-20
+Qinghai province,17,0,5-Feb-20
+Tibet,1,0,5-Feb-20
+Undisclosed,236,0,5-Feb-20
+Hong Kong,21,1,5-Feb-20
+Taiwan,11,0,5-Feb-20
+Macau,10,0,5-Feb-20
+Japan,45*,0,5-Feb-20
+Thailand,25,0,5-Feb-20
+Singapore,28,0,5-Feb-20
+South Korea,23,0,5-Feb-20
+Australia,14,0,5-Feb-20
+Germany,12,0,5-Feb-20
+Malaysia,12,0,5-Feb-20
+United States,12,0,5-Feb-20
+Vietnam,10,0,5-Feb-20
+France,6,0,5-Feb-20
+UAE,5,0,5-Feb-20
+Canada,5,0,5-Feb-20
+England,2,0,5-Feb-20
+Russia,2,0,5-Feb-20
+Philippines,3,1,5-Feb-20
+India,3,0,5-Feb-20
+Italy,2,0,5-Feb-20
+Nepal,1,0,5-Feb-20
+Cambodia,1,0,5-Feb-20
+Sri Lanka,1,0,5-Feb-20
+Finland,1,0,5-Feb-20
+Sweden,1,0,5-Feb-20
+Spain,1,0,5-Feb-20
+Belgium,1,0,5-Feb-20
 "Hubei province
-(including Wuhan)","13,522",414,4 February 2020
-Zhejiang province,829,0,4 February 2020
-Guangdong province,797,0,4 February 2020
-Henan province,675,2,4 February 2020
-Hunan province,593,0,4 February 2020
-Anhui province,480,0,4 February 2020
-Jiangxi province,476,0,4 February 2020
-Chongqing,337,2,4 February 2020
-Jiangsu province,308,0,4 February 2020
-Sichuan province,283*,1,4 February 2020
-Shandong province,275,0,4 February 2020
-Beijing,228,1,4 February 2020
-Shanghai,219,1,4 February 2020
-Fujian province,194,0,4 February 2020
-Shaanxi province,142,0,4 February 2020
-Guangxi Region,139,0,4 February 2020
-Yunnan province,119,0,4 February 2020
-Hebei province,126,1,4 February 2020
-Heilongjiang province,155,2,4 February 2020
-Liaoning province,77,0,4 February 2020
-Hainan province,80,1,4 February 2020
-Shanxi province,74,0,4 February 2020
-Tianjin,66,0,4 February 2020
-Gansu province,55,0,4 February 2020
-Guizhou province,56,0,4 February 2020
-Ningxia Region,34,0,4 February 2020
-Inner Mongolia,35,0,4 February 2020
-Jilin province,42,0,4 February 2020
-Xinjiang,29,0,4 February 2020
-Qinghai province,15,0,4 February 2020
-Tibet,1,0,4 February 2020
-Hong Kong,17,1,4 February 2020
-Taiwan,10,0,4 February 2020
-Macau,10,0,4 February 2020
-Japan,22*,0,4 February 2020
-Thailand,25,0,4 February 2020
-Singapore,24,0,4 February 2020
-South Korea,16,0,4 February 2020
-Australia,13,0,4 February 2020
-Germany,12,0,4 February 2020
-Malaysia,10,0,4 February 2020
-United States,11,0,4 February 2020
-Vietnam,10,0,4 February 2020
-France,6,0,4 February 2020
-UAE,5,0,4 February 2020
-Canada,4,0,4 February 2020
-England,2,0,4 February 2020
-Russia,2,0,4 February 2020
-Philippines,2,1,4 February 2020
-India,3,0,4 February 2020
-Italy,2,0,4 February 2020
-Nepal,1,0,4 February 2020
-Cambodia,1,0,4 February 2020
-Sri Lanka,1,0,4 February 2020
-Finland,1,0,4 February 2020
-Sweden,1,0,4 February 2020
-Spain,1,0,4 February 2020
-Belgium,1,0,4 February 2020
+(including Wuhan)","24,953",699,8-Feb-20
+Guangdong province,"1,075",1,8-Feb-20
+Zhejiang province,"1,048",0,8-Feb-20
+Henan province,981,4,8-Feb-20
+Hunan province,803,0,8-Feb-20
+Anhui province,733,0,8-Feb-20
+Jiangxi province,698,0,8-Feb-20
+Chongqing,426,2,8-Feb-20
+Jiangsu province,439,0,8-Feb-20
+Shandong province,407,0,8-Feb-20
+Sichuan province,364*,1,8-Feb-20
+Beijing,315,2,8-Feb-20
+Shanghai,281,1,8-Feb-20
+Heilongjiang province,295,5,8-Feb-20
+Fujian province,239,0,8-Feb-20
+Shaanxi province,195,0,8-Feb-20
+Guangxi Region,183,0,8-Feb-20
+Hebei province,195,1,8-Feb-20
+Yunnan province,138,0,8-Feb-20
+Hainan province,124,2,8-Feb-20
+Shanxi province,104,0,8-Feb-20
+Liaoning province,99,0,8-Feb-20
+Tianjin,88,1,8-Feb-20
+Guizhou province,89,1,8-Feb-20
+Gansu province,71,0,8-Feb-20
+Jilin province,69,1,8-Feb-20
+Inner Mongolia,50,0,8-Feb-20
+Ningxia Region,45,0,8-Feb-20
+Xinjiang,42,0,8-Feb-20
+Qinghai province,18,0,8-Feb-20
+Tibet,1,0,8-Feb-20
+Undisclosed,0,1,8-Feb-20
+Hong Kong,26,1,8-Feb-20
+Taiwan,17,0,8-Feb-20
+Macau,10,0,8-Feb-20
+Japan,89*,0,8-Feb-20
+Singapore,33,0,8-Feb-20
+Thailand,32,0,8-Feb-20
+South Korea,24,0,8-Feb-20
+Australia,15,0,8-Feb-20
+Malaysia,15,0,8-Feb-20
+Germany,14,0,8-Feb-20
+United States,12,0,8-Feb-20
+Vietnam,13,0,8-Feb-20
+Canada,7,0,8-Feb-20
+France,6,0,8-Feb-20
+UAE,7,0,8-Feb-20
+United Kingdom,3,0,8-Feb-20
+Philippines,3,1,8-Feb-20
+India,3,0,8-Feb-20
+Italy,3,0,8-Feb-20
+Russia,2,0,8-Feb-20
+Nepal,1,0,8-Feb-20
+Cambodia,1,0,8-Feb-20
+Sri Lanka,1,0,8-Feb-20
+Finland,1,0,8-Feb-20
+Sweden,1,0,8-Feb-20
+Spain,1,0,8-Feb-20
+Belgium,1,0,8-Feb-20
